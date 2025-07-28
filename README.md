@@ -1,3 +1,6 @@
+#LINK:   
+[https://verbal-ai-powered-analytics-dashboard.netlify.app](https://verbal-ai-powered-analytics-dashboard.netlify.app)
+
 # AI-Powered Marketing Dashboard - ADmyBRAND Insights
 
 This project is a modern, visually stunning analytics dashboard for "ADmyBRAND Insights," a fictional digital marketing agency. It is built using React, TailwindCSS, and the "cyberpunk" DaisyUI theme, and it features AI-powered data analysis through the Google Gemini API.
